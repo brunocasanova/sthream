@@ -1,0 +1,25 @@
+{
+  "name": "sthream",
+  "version": "0.0.0",
+  "description": "Stream upload progress test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunocasanova/sthream.git"
+  },
+  "keywords": [
+    "stream",
+    "brunocasanova",
+    "upload",
+    "progress"
+  ],
+  "author": "Bruno Casanova",
+  "license": "GNU 2.0",
+  "bugs": {
+    "url": "https://github.com/brunocasanova/sthream/issues"
+  },
+  "homepage": "https://github.com/brunocasanova/sthream"
+}
